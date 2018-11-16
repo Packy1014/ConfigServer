@@ -10,6 +10,6 @@ spring:
   application:
     name: product-service
 
-env:dev
+env: dev
 
-branch:master
+branch: master
